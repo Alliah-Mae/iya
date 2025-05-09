@@ -12,7 +12,7 @@ const Hero = () => {
                 <div className="container">
                     <div className="row gy-4 gy-md-8 pt-9 pt-lg-0">
                         <div className="col-lg-6 text-center text-lg-start">
-                            <h1 className="fs-2 fs-lg-1 text-white fw-bold mb-2 mb-lg-x1 lh-base mt-3 mt-lg-0"> Manage your remote <span className="text-nowrap">team work</span></h1>
+                            <h1 className="fs-2 fs-lg-1 text-white fw-bold mb-2 mb-lg-x1 lh-base mt-3 mt-lg-0"> Alliah <span className="text-nowrap">team work</span></h1>
                             <p className="fs-8 text-white mb-3 mb-lg-4 lh-lg">With lots of unique blocks, you can easily build a page without coding. Build your next consultancy website within few minutes</p>
                             <div className="d-flex justify-content-center justify-content-lg-start"><a className="btn btn-primary btn-lg lh-xl mb-4 mb-md-5 mb-lg-7" href="#!">Explore more</a></div>
                             <p className="mb-x1 fs-10 button-text text-uppercase fw-bold lh-base text-300">Download our app</p>
